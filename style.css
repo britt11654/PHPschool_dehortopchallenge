@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+}
+
+header nav ul a {
+    text-decoration: none;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 33%;
+    height: inherit;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
